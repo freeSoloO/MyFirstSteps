@@ -1,2 +1,3 @@
 # MyFirstSteps
-My first steps in Fundamentals
+
+My first steps in Fundamentals! 😄
